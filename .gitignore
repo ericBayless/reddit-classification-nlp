@@ -1,0 +1,4 @@
+#ignore anything in data folder (too large)
+Data/*
+#same for scratch data
+Scratch/Data/*
